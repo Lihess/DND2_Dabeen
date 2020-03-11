@@ -1,9 +1,6 @@
-
-<center>
+<p align="center">
     <img src = "backend\dnd\src\main\resources\static\logo.png" width = 450px/>
-    <br/>
-   
-</center>
+</p>
 
 -----------------------  
 
@@ -86,8 +83,9 @@
 <br>
 
 ### 📜 수료증
-<center>
+<p align="center">
     <img src = "backend\dnd\src\main\resources\static\이수증.jpg" width = 400px/>
-
+</p>
+<p align="center">
 🎉 DND 동아리를 2기수 수료하여 수료증을 받았다! 🎉
-</center>
+</p>
